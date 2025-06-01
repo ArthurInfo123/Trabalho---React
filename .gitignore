@@ -1,0 +1,29 @@
+# Node
+node_modules/
+build/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+
+# VSCode
+.vscode/
+
+# Eclipse
+*.metadata/
+*.classpath
+*.project
+*.settings/
+target/
+bin/
+*.log
+
+# Outras pastas de build
+out/
+coverage/
+.idea/
